@@ -4,3 +4,4 @@ def default_test(name, age=0, last='Ching'):
 
 default_test('Jim')
 default_test('Jim', 'Gugerty')
+default_test('Elisa', 58, 'Gugerty')
